@@ -38,5 +38,3 @@ on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_me
 
 - [framer-motion](https://www.framer.com/motion/) <br />
 - [Tailwind css](https://tailwindcss.com/) <br />
-
-
