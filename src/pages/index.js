@@ -39,7 +39,7 @@ export default function Home() {
               />
 
               <p className='my-4 text-base font-mont mb-2'>
-                As an aspiring data scientist, I am passionate about harnessing the power of data to uncover insights and drive innovation. 
+                As an aspiring data scientist, I am passionate about using the power of data to uncover insights and drive innovation. 
                 
                 Dive into my latest projects, demonstrating my proficiency in data analysis, machine learning, and Python. 
                 
